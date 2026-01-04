@@ -15,6 +15,13 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <body>
+          {/* 네비게이션 메뉴 */}
+        <nav className="main-nav">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/blog">Blog</a>
+          <a href="/projects">Projects</a>
+        </nav>
         <main className="main-container">
           {children}
         </main>
