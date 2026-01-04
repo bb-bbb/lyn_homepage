@@ -12,7 +12,7 @@ html, body {
 
 /* 배경 흰색 고정 */
 body {
-  background-color: #ffffff;
+  background-color: #22c6c3;
   color: #111; /* 가독성을 위한 기본 텍스트 색 */
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
